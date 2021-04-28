@@ -1,0 +1,59 @@
+<style type="text/css">
+        body {
+            background: #ffffff;
+        }
+        .content {
+            margin-bottom: 30px;
+            width: 100%;
+            background: #fbfbfb;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        .content:hover {
+            background: #f5f5f5;
+        }
+        .content-title a {
+            font-size: 18px;
+            font-color: #333;
+            width: 100%;
+            border-bottom:1px dotted #ccc;
+        }
+        .content-detail {
+            font-size: 10px;
+            width: 100%;
+            color: blue;
+            margin-bottom: 10px;
+        }
+        .content-fill {
+            width: 100%;
+            font-size: 12px;
+        }
+        .my-navbar{
+            background-color: #0099e6;
+            font-family: "Century Gothic";
+            font-size: 15px;
+            color: #ffffff;
+        }
+        .my-navbar .navbar-brand {
+            color: white;
+            font-family: Platonica;
+        }
+        .my-navbar .navbar-brand:hover,
+        .my-navbar .navbar-brand:focus {
+            color: black;
+        }
+        .my-navbar .navbar-nav > li > a {
+            color: white;
+        }
+        .my-navbar .navbar-nav > li > a:hover,
+        .my-navbar .navbar-nav > li > a:focus {
+            color: #002db3;
+            background:#ccd9ff;
+        }
+        .my-navbar .navbar-nav > .active > a, 
+        .my-navbar .navbar-nav > .active > a:hover, 
+        .my-navbar .navbar-nav > .active > a:focus {
+            color: black;
+            background:#ccd9ff;
+        }
+    </style>
